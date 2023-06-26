@@ -30,7 +30,7 @@ const handleCheckout = async (selectedAddress, totalPrice) => {
     key: process.env.REACT_APP_RAZORPAY_KEY,
     amount: totalPrice * 100,
     currency: "INR",
-    name: "ATTIREX",
+    name: "ShopEx",
     description:
       "Unlock the power of style and elevate your wardrobe with ATTIREX!",
     image:
@@ -49,7 +49,7 @@ const handleCheckout = async (selectedAddress, totalPrice) => {
     theme: {
       color: "#121932",
       background: "#FFFFFF",
-      display_name: "ATTIREX",
+      display_name: "ShopEx",
     },
     modal: {
       escape: false,
