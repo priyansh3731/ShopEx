@@ -34,7 +34,7 @@ const handleCheckout = async (selectedAddress, totalPrice) => {
     description:
       "Unlock the power of style and elevate your wardrobe with ATTIREX!",
     image:
-      "https://res.cloudinary.com/dptfwcnro/image/upload/v1684838756/E-comm%20ATTIREX/logo/favicon_cmrc3b.png",
+      "https://images-platform.99static.com//vwXL2V9-ksHp2m9DoTyKwmYiOSI=/180x1160:823x1803/fit-in/500x500/99designs-contests-attachments/61/61431/attachment_61431386",
     handler: function (response) {
       toast.success("Payment successful!", response);
     },
