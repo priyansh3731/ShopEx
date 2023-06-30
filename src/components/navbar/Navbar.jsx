@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import {
   SearchIcon,
   PersonOutlineOutlinedIcon,
-  FavoriteBorderOutlinedIcon,
+  
   ShoppingBagOutlinedIcon,
 } from "assets";
 import "./navbar.css";
