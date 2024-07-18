@@ -32,7 +32,7 @@ const handleCheckout = async (selectedAddress, totalPrice) => {
     currency: "INR",
     name: "ShopEx",
     description:
-      "Unlock the power of style and elevate your wardrobe with ATTIREX!",
+      "Unlock the power of style and elevate your wardrobe with ShopEx!",
     image:
       "https://images-platform.99static.com//vwXL2V9-ksHp2m9DoTyKwmYiOSI=/180x1160:823x1803/fit-in/500x500/99designs-contests-attachments/61/61431/attachment_61431386",
     handler: function (response) {
