@@ -54,7 +54,7 @@ function Footer() {
         </div>
         <div className="desk-footer-bottom">
           <p>
-            &copy; 2023 Ecommerce Inc. All rights reserved By ShopEx
+            &copy; Ecommerce Inc. All rights reserved By ShopEx
           </p>
         </div>
       </footer>
