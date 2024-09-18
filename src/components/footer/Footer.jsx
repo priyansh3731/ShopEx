@@ -41,10 +41,10 @@ function Footer() {
                 <Link to="/products">Products</Link>
               </li>
               <li>
-                <Link to="https://github.com/chhakuli123">About Us</Link>
+                <Link>About Us</Link>
               </li>
               <li>
-                <Link to="https://www.linkedin.com/in/chhakuli-zingare-322986234">
+                <Link>
                   Contact Us
                 </Link>
               </li>
@@ -60,10 +60,6 @@ function Footer() {
       </footer>
       {/* ------------Mobile footer------------------- */}
       <footer className="mobile-footer">
-        <p className="footer-header">
-          Made with <span className="footer-logo">{`</>`}</span> by Akshit Bhati
-        </p>
-       
         <p className="footer-bottom">© 2023 | ShopEx</p>
       </footer>
     </>
